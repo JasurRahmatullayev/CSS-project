@@ -1,0 +1,81 @@
+body, h1, h2, li, ul, p {
+	margin: 0;
+	padding: 0;
+}
+#sa {
+	background-color: coral;
+}
+.hov {
+	width: 70%;
+	margin: 0 auto;	
+	color: #fff;	
+}
+#sa h1 {
+	font-family: sans-serif;
+	padding: 10px 0;
+}
+#hah {
+	background-color: #333;
+}
+
+#hah li {
+	display: inline;
+	list-style-type: none;
+	padding: 15px 20px;	
+	display: inline-block;
+	font-family: sans-serif;
+}
+#hah ul:first-child li {
+	padding-left: 0;
+}
+
+#hah a {
+	color: #fff;
+	text-decoration: none;
+
+}
+#ras {
+	background-image: url(rasm.jpg);		
+	background-position: right top ;
+	min-height: 300px
+}
+#ras h1 {	
+	font-size: 50px;	
+	padding-top: 50px;
+	text-align: center;
+	font-family: sans-serif;	
+}
+#matn {
+	margin-top: 30px;
+}
+.matn1 h2 {
+	color: #555;
+}
+.matn1 h2 {
+	margin-bottom: 20px;
+}
+.matn1 {
+	float: left;
+	width: 70%;	
+	color: #555;
+	padding-right: 20px;
+	box-sizing: border-box;
+}
+.matn2 {	
+	float: left;
+	width: 30%;
+	color: white;
+	background-color: #333;padding: 20px 30px;
+	box-sizing: border-box;
+}
+.bl {
+	clear: both;
+}
+.futer {
+	text-align: center;
+	background-color: #333;
+	color: #fff;
+	margin-top: 50px;
+	font-family: sans-serif;
+	padding: 30px 0;
+}
